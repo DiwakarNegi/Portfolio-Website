@@ -1,14 +1,14 @@
-# 🌟 Diwakar Negi - Frontend Developer Portfolio
+#  Diwakar Negi - Frontend Developer Portfolio
 
 A modern, responsive personal portfolio website showcasing the skills, projects, and journey of Diwakar Negi, a passionate BTech Computer Science student and Frontend Developer.
 
 ![Portfolio Preview](https://github.com/user-attachments/assets/777c8056-2e2f-4c51-b6fa-d86f9bd5af45)
 
-## 🚀 About This Project
+##  About This Project
 
 This portfolio website is crafted to provide a comprehensive view of my skills, projects, and professional journey. It features a clean, modern design with smooth animations and responsive layouts that work seamlessly across all devices.
 
-### ✨ Key Features
+###  Key Features
 
 - **Modern Design**: Clean, professional layout with dark theme
 - **Responsive**: Mobile-first design that adapts to all screen sizes
@@ -27,7 +27,7 @@ This portfolio website is crafted to provide a comprehensive view of my skills, 
 - **Education**: Academic journey and qualifications
 - **Contact**: Contact form and social media links
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Frontend Technologies
 - **HTML5**: Semantic markup and modern web standards
@@ -46,7 +46,7 @@ This portfolio website is crafted to provide a comprehensive view of my skills, 
 - **VS Code**: Development environment
 - **Browser DevTools**: Testing and debugging
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -103,7 +103,7 @@ For the best experience and to avoid CORS issues with external resources:
 
 Visit the live version: [Portfolio Website](https://diwakarnegi.github.io/Portfolio-Website/) _(if deployed)_
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Portfolio-Website/
@@ -128,7 +128,7 @@ Portfolio-Website/
     └── skills.html       # Skills section content
 ```
 
-## 🎨 Customization
+##  Customization
 
 ### Personalizing the Portfolio
 
@@ -153,7 +153,7 @@ Portfolio-Website/
    - Modify contact form in `sections/contact.html`
    - Update email and phone in contact section
 
-## 🤝 Contributing
+##  Contributing
 
 While this is a personal portfolio, contributions for improvements are welcome!
 
@@ -179,7 +179,7 @@ While this is a personal portfolio, contributions for improvements are welcome!
 - Ensure accessibility standards are maintained
 - Keep the design consistent with the overall theme
 
-## 📱 Browser Support
+##  Browser Support
 
 - ✅ Chrome (latest)
 - ✅ Firefox (latest)
@@ -187,7 +187,7 @@ While this is a personal portfolio, contributions for improvements are welcome!
 - ✅ Edge (latest)
 - ✅ Mobile browsers (iOS Safari, Chrome Mobile)
 
-## 🐛 Known Issues
+##  Known Issues
 
 - External CDN resources might be blocked in some environments
 - Some animations may not work perfectly on older browsers
@@ -197,23 +197,8 @@ While this is a personal portfolio, contributions for improvements are welcome!
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👨‍💻 About the Developer
 
-**Diwakar Negi**
-- 🎓 BTech Computer Science Student (2021-2025)
-- 💻 Frontend Developer & Web Enthusiast
-- 🌱 Currently seeking internship and entry-level opportunities
-- 📍 Based in Uttarakhand, India
-
-### Connect with Me
-
-- 🌐 **Portfolio**: [diwakar.dev](https://diwakarnegi.github.io/Portfolio-Website/)
-- 💼 **LinkedIn**: [linkedin.com/in/diwakar-negi](https://linkedin.com/in/diwakar-negi)
-- 🐱 **GitHub**: [github.com/DiwakarNegi](https://github.com/DiwakarNegi)
-- 🐦 **Twitter**: [twitter.com/diwakar_dev](https://twitter.com/diwakar_dev)
-- 📧 **Email**: [diwakar.negi.dev@gmail.com](mailto:diwakar.negi.dev@gmail.com)
-
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **AOS Library**: For beautiful scroll animations
 - **Font Awesome**: For amazing icons
