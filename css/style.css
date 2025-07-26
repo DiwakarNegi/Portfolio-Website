@@ -259,6 +259,22 @@ body {
     width: 100%;
 }
 
+/* Mood Board Link Styling */
+.mood-board-link {
+    background: linear-gradient(135deg, rgba(255, 107, 53, 0.1), rgba(247, 147, 30, 0.1));
+    padding: 8px 16px;
+    border-radius: 20px;
+    border: 1px solid rgba(255, 107, 53, 0.3);
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+
+.mood-board-link:hover {
+    background: linear-gradient(135deg, rgba(255, 107, 53, 0.2), rgba(247, 147, 30, 0.2));
+    border-color: rgba(255, 107, 53, 0.5);
+    transform: translateY(-2px);
+}
+
 /* Theme Toggle */
 .theme-toggle {
     background: var(--glass-bg);
