@@ -48,11 +48,6 @@ Visit the live portfolio: [https://diwakar-negi.netlify.app](https://diwakar-neg
 - Git for version control
 - Netlify for deployment and hosting
 
-## Project Structure
--portfolio-website/ ├── index.html # Main landing page ├── about.html # About page with personal background ├── skills.html # Technical skills showcase ├── projects.html # Project portfolio with filtering ├── contact.html # Contact form and information ├── css/ │ ├── style.css # Main stylesheet with design system │ └── responsive.css # Mobile-responsive styles ├── js/ │ ├── script.js # Core JavaScript functionality │ ├── skills.js # Skills page animations │ ├── projects.js # Project filtering logic │ └── contact.js # Contact form handling ├── images/ # Image assets directory ├── netlify.toml # Netlify deployment configuration └── README.md 
-
-## Project documentation
-
 ## Key Technical Features
 
 ### Animation System
@@ -80,11 +75,4 @@ Visit the live portfolio: [https://diwakar-negi.netlify.app](https://diwakar-neg
 - Safari (latest)
 - Edge (latest)
 - Mobile browsers (iOS Safari, Chrome Mobile)
-
-## Development Setup
-
-1. Clone the repository:
-```bash
-git clone https://github.com/DiwakarNegi/portfolio.git
-cd portfolio
 
